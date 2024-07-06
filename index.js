@@ -6,7 +6,7 @@ function distanceFromHqInBlocks(bl2){
   return Math.abs((bl2-bl1)); 
 }
  distanceFromHqInBlocks(50); 
- console.log(distanceFromHqInBlocks(34)); 
+ distanceFromHqInBlocks(34); 
 
  // Distance in Feet 
 
